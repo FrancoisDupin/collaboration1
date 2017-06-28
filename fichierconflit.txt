@@ -1,7 +1,7 @@
 Un
-two
-three
-four
+deux
+trois
+QUATRE
 six
 neuf
 onze
