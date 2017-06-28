@@ -2,6 +2,6 @@ Un
 deux
 trois
 QUATRE
-SIX
-NEUF
+six
+neuf
 onze
